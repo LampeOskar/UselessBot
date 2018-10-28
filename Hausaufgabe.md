@@ -28,5 +28,5 @@ Hier ein Flussdiagramm und ein Screenshot der Anwendung.
 
 ### Ergebnis
 
-###![UselessBot](UselessBot1.JPG)
-###![UselessBot](UselessBot2.JPG)
+![UselessBot](UselessBot1.JPG)
+![UselessBot](UselessBot2.JPG)
