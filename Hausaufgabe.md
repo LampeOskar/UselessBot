@@ -28,5 +28,7 @@ Hier ein Flussdiagramm und ein Screenshot der Anwendung.
 
 ### Ergebnis
 
+Hier sind 2 Bilder des Roboters zu sehen.
+
 ![UselessBot](UselessBot1.JPG)
 ![UselessBot](UselessBot2.JPG)
