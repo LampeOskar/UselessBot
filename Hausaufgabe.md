@@ -16,6 +16,8 @@ Diesen Moment gilt es auszunutzen um den Knopf zu drücken, jedoch sollte man da
 
 
 
+
+
 ### Funktionsweise
 
 Hier ein Flussdiagramm und ein Screenshot der Anwendung. 
